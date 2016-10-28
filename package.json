@@ -1,5 +1,5 @@
 {
-  "name": "cosmos-async-actions",
+  "name": "redux-async-actions-example",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
