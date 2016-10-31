@@ -1,5 +1,5 @@
 
-import BaseFetcher from '../base-fetcher'
+import BaseFetcher from '../BaseFetcher'
 
 const cfg = {
   protocol: 'http',

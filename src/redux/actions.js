@@ -1,5 +1,5 @@
 
-import UsersFetcher from '../api/users-fetcher'
+import UsersFetcher from '../api/UsersFetcher'
 
 // would be located in own module... auth/getAuthToken.js
 const getAuthToken = () => {

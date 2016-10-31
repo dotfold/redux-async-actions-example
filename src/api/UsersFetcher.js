@@ -1,6 +1,6 @@
 /* @flow */
 
-import BaseFetcher from './base-fetcher'
+import BaseFetcher from './BaseFetcher'
 import partialRight from 'lodash.partialright'
 
 import type { FetcherConfig } from '../../types'
