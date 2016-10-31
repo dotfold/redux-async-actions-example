@@ -2969,6 +2969,12 @@ jest-environment-node@^16.0.2:
     jest-mock "^16.0.2"
     jest-util "^16.0.2"
 
+jest-fetch-mock:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/jest-fetch-mock/-/jest-fetch-mock-1.0.6.tgz#099d4498e7e068571b0ac7d2b3caad6d8555dee6"
+  dependencies:
+    whatwg-fetch "1.0.0"
+
 jest-file-exists@^15.0.0:
   version "15.0.0"
   resolved "https://registry.yarnpkg.com/jest-file-exists/-/jest-file-exists-15.0.0.tgz#b7fefdd3f4b227cb686bb156ecc7661ee6935a88"
@@ -4442,6 +4448,10 @@ redux-logger:
   resolved "https://registry.yarnpkg.com/redux-logger/-/redux-logger-2.7.0.tgz#77f0ee5c473b1440c7e1b3c3c7775e59741c5dbf"
   dependencies:
     deep-diff "0.3.4"
+
+redux-mock-store:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/redux-mock-store/-/redux-mock-store-1.2.1.tgz#630c0e2642927d1417c844d935266b501f2fc231"
 
 redux-thunk:
   version "2.1.0"
